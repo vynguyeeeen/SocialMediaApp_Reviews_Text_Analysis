@@ -9,6 +9,7 @@ Instagram, Snapchat and Tiktok are amongst the top social media platforms and a 
 ### Frameworks:
 The following anlaysis utilized R essentials and frameworks learned as of Feb 10, 2021:
 
+    - Tokenization
     - Correlation comparison 
     - Sentiment analysis
     - N-grams model 
